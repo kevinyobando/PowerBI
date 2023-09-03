@@ -1,0 +1,24 @@
+Industry: Technology
+Company: Apple
+Department: Marketing 
+
+Abstract: Our dashboard proposal aims to provide the answer if the current marketing strategy is effective or needs improvement. (Something like this) - c/o ???
+
+Introduction - c/o???
+
+Table of Contents -  c/o ???
+
+Department/KPIs - c/o Kevin
+Conversion Rate: Measures the percentage of website visitors or leads that take a desired action, such as making a purchase or filling out a form.
+Customer Acquisition Cost (CAC): Calculates the average cost of acquiring a new customer, including marketing and sales expenses. It helps evaluate the efficiency of your marketing campaigns.
+Return on Investment (ROI): Determines the profitability of your marketing activities by comparing the revenue generated to the costs incurred.
+Website Traffic: Measures the number of visitors to your website, which can indicate the effectiveness of your marketing channels and content.
+Brand Awareness: Assesses the visibility and recognition of your brand among your target audience. Metrics like social media followers, brand mentions, and reach can indicate brand awareness.
+
+Data Source and Data Model - c/o???
+
+
+
+
+
+A marketing department is a group of marketing specialists responsible for planning, creating, and monitoring marketing activities within a company. The primary goal of the marketing department is to help the company generate as many sales as possible. It is the Marketing Department's job to reach out to prospects, customers, investors and/or the community, while creating an overarching image that represents your company in a positive light.
